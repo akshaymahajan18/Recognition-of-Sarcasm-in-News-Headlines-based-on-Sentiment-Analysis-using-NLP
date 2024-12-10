@@ -23,9 +23,11 @@ The link for the dataset is provided below:  https://www.kaggle.com/rmisra/news-
 
 # Exploratory Data Analysis : 
 1. Count plot of the is_sarcastic feature.
-![image](https://github.com/user-attachments/assets/1ffa0607-d781-4979-84bb-49df0bae44a3)
+![image](https://github.com/user-attachments/assets/85278908-4355-41a0-91d8-7d93341f10d1)
+
 2. WORDCLOUD FOR TEXT THAT IS NOT SARCASTIC (LABEL - 0)
-![image](https://github.com/user-attachments/assets/89dd7e9f-40bc-476c-8cc2-bff0eb9401f0)
+![image](https://github.com/user-attachments/assets/58671608-2450-42f7-8f06-18ae3f15647b)
+
 3. WORDCLOUD FOR TEXT THAT IS SARCASTIC (LABEL - 1)
 ![image](https://github.com/user-attachments/assets/1fbf55ad-efd6-4c63-bbaa-a7cc86cc6968)
 4. Plotting the number of characters in text
