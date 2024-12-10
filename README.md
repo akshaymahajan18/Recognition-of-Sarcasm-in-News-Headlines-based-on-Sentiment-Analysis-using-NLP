@@ -7,11 +7,11 @@ In the last decade there has been a boom in opinionated textual data both in onl
 The main objective for this project is to delve deep into the understanding of text classification methods for sarcasm detection (& sentiment analysis) and understanding and implementing the feature extraction methods of NLP. It is important to extract useful information from any forms of data, especially unstructured forms like text data. Feature extraction and the proper representation of text for classification purposes is an important factor that affects the accuracy of classification. In this project we plan to explore the use of the Count Vectorizer, TF-IDF and Word2Vec on different supervised learning algorithms and the accuracy of these models will be measured and compared. 
 
 # Data description : 
+This News Headlines dataset for Sarcasm Detection  is collected from two news websites TheOnion and HuffPost.
 The News headline dataset consists of about 28000 data points.
 1. is_sarcastic: 1 if the record is sarcastic, otherwise 0 
 2. headline: the headline of the news article
 3. article_link: link to the original news article.   
-This News Headlines dataset for Sarcasm Detection  is collected from two news websites TheOnion and HuffPost.
 The link for the dataset is provided below:  https://www.kaggle.com/rmisra/news-headlines-dataset-for-sarcasm-detection
 
 # Data Pre-processing :
