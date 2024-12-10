@@ -23,19 +23,34 @@ The link for the dataset is provided below:  https://www.kaggle.com/rmisra/news-
 
 # Exploratory Data Analysis : 
 1. Count plot of the is_sarcastic feature.
-![image](https://github.com/user-attachments/assets/85278908-4355-41a0-91d8-7d93341f10d1)
+
+![image](https://github.com/user-attachments/assets/3818b906-37ba-43a6-b29f-56f957a1a5c3)
+
 
 2. WORDCLOUD FOR TEXT THAT IS NOT SARCASTIC (LABEL - 0)
-![image](https://github.com/user-attachments/assets/58671608-2450-42f7-8f06-18ae3f15647b)
+
+![image](https://github.com/user-attachments/assets/647e65f9-2aa5-4fff-9c7d-c9d5b57fdff3)
+
 
 3. WORDCLOUD FOR TEXT THAT IS SARCASTIC (LABEL - 1)
-![image](https://github.com/user-attachments/assets/1fbf55ad-efd6-4c63-bbaa-a7cc86cc6968)
+
+![image](https://github.com/user-attachments/assets/a3b40d66-effc-457b-9f8c-64ed8db028da)
+
+
 4. Plotting the number of characters in text
-![image](https://github.com/user-attachments/assets/e50078f4-41a0-4493-b89e-c5fd2b9defcc)
+
+![image](https://github.com/user-attachments/assets/95c68d86-1f6d-4ab5-9251-9e7749b53549)
+
+
 5. Plotting the number of words in text
-![image](https://github.com/user-attachments/assets/ea4007c6-c3e9-420e-b5db-6624d280f70c)
+
+![image](https://github.com/user-attachments/assets/f2caab06-50c0-4574-a8ed-174f4d18280a)
+
+
 6. Plotting the average number of words in text
-![image](https://github.com/user-attachments/assets/45b27016-ca18-4556-a139-f99609c4acb5)
+
+ ![image](https://github.com/user-attachments/assets/7a5491cf-1a76-4aa4-991d-50b03648ba53)
+
 
 
 # Feature Extraction : 
